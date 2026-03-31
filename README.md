@@ -4,6 +4,11 @@ For studies and poems from the Patsy poetry
 # Patsy Poetry
 
 This repository gathers the poems, sonnet sequences, fragments, and formal studies that belong to my ongoing Patsy project.
+|
+It's abouta  woman I should have known was in Brooklyn when I lived there for five years in the 90s.  But somehow, when I look back now, I did not know
+she was there.  Right now March 31, 2026, this is the part I have been struggling with.  Even though I saw her at a party on Avenue D in Manhattan, and there
+ensued a kind of exchange and subsequent drama--it ended with her turning away from me without speaking, twice.  And somehow, after that, it was as if the
+very knowledge of her was withdrawn from my mind.  It was not like normal forgetting.
 
 At the center of the work is a single figure, a single absent woman, and a single continuing pressure on memory: Patsy as presence, riddle, threshold, and governing form. These poems are attempts to hold that pressure in language without explaining it away.
 
